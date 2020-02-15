@@ -1,0 +1,9 @@
+bootstrapServer:
+  ip : "127.0.0.1"
+  port : 5006
+  nodeId : 0
+
+myNode:
+  ip : "127.0.0.1"
+  port : 5008
+  nodeId : 1
